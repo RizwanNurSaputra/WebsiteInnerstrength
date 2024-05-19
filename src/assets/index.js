@@ -1,8 +1,4 @@
-import any from "./anxiety.png";
-import biplo from "./bipolar.png";
-import depre from "./depression.png";
+import imagelayanan from "./imagelayanan.png";
 export {
-    any,
-    bipo,
-    depre,
+    imagelayanan,
 };
